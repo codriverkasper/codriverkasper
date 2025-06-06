@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @codriverkasper
-- 👀 I’m interested in: really cool shit like games and stuff
+- 👀 I’m interested in: really cool shit like games and 3d
 - 🌱 I’m currently learning: godot and stuff
 - 💞️ I’m looking to collaborate on: idk 
 - 📫 How to reach me: dont :>
